@@ -1,7 +1,6 @@
 package es.logixs;
 
-import java.util.ArrayList;
-import java.util.List;
+import es.logixs.domain.Factura;
 
 public class TransformadorFactura {
     public Factura transformar(String linea) {

@@ -1,5 +1,7 @@
 package es.logixs;
 
+import es.logixs.domain.Factura;
+
 import java.util.ArrayList;
 import java.util.List;
 

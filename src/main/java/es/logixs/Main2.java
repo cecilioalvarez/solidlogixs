@@ -1,5 +1,7 @@
 package es.logixs;
 
+import es.logixs.domain.Persona;
+
 import java.util.ArrayList;
 import java.util.List;
 

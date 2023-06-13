@@ -1,4 +1,4 @@
-package es.logixs;
+package es.logixs.domain;
 
 public class Factura {
 
